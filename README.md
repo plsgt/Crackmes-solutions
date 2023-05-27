@@ -1,0 +1,1 @@
+This is a repository of [crackmes.one](https://crackmes.one) solutions. I have added the solutions with explanations of the files which I have been able to successfully Reverse Engineer. 
